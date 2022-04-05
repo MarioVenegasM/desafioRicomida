@@ -1,0 +1,18 @@
+* {
+    color: #373a3c;
+    font-family: 'Cabin', sans-serif;
+}
+
+nav,
+footer {
+    background-color: #373a3c;
+}
+
+.newsletter {
+    background-color: #dc3545;
+}
+
+.classRicomida {
+    font-family: 'Lobster', cursive;
+    text-decoration: none;
+}
